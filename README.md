@@ -1,7 +1,5 @@
 # test-web-worker
 
-[![dependencies](https://david-dm.org/piecioshka/test-web-worker.svg)](https://github.com/piecioshka/test-web-worker)
-
 :ledger: Testing Web Workers
 
 ## Demo 🎉
