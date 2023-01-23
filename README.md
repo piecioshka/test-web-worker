@@ -2,7 +2,7 @@
 
 :ledger: Testing Web Workers
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/test-web-worker>
 
