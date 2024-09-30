@@ -12,7 +12,7 @@
     "scripts": {
         "clear": "echo",
         "clear:all": "rm -rf node_modules/ && npm run clear",
-        "start": "http-server",
+        "start": "http-server . -c-1",
         "lint": "eslint ."
     },
     "dependencies": {},
